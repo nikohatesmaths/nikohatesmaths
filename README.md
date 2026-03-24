@@ -1,1 +1,1 @@
-![alt text](https://tenor.com/4TGW.gif)
+![Alt text](name-of-gif-file.gif)
