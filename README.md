@@ -5,4 +5,4 @@
 <h5 align="center">w2i !!</a>
 <h6 align="center">my interests</a>
   
-signalis, homestuck, fear & hunger, portal, postal, hylics, disco elysium, mob psycho 100, ENA, half-life, tf2, psychopomp, nso, one shot, zeno remake and much more !!</a>
+signalis, homestuck, fear & hunger, portal, postal, hylics, disco elysium, mob psycho 100, ENA, half-life, tf2, psychopomp, nitw, one shot, zeno remake and much more !!</a>
