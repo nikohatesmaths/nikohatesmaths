@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="meow-ocelot-meow" src="https://github.com/user-attachments/assets/59bf5635-7130-4740-bebf-092dbd297a16" alt="Описание" width="500">
+  <img src="meow-ocelot-meow" src="https://github.com/user-attachments/assets/59bf5635-7130-4740-bebf-092dbd297a16" width="500">
 </p>
 <h4 align="center">Hello , I'm may </a> 
 <h5 align="center">w2i , c+h !!</a>
