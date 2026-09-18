@@ -1,6 +1,4 @@
 <img alt="meow-ocelot-meow" src="https://github.com/user-attachments/assets/59bf5635-7130-4740-bebf-092dbd297a16"/>
-<p align="center">
-  <img src= />
 </p>
 <h4 align="center">Hello , I'm may </a> 
 <h5 align="center">w2i , c+h !!</a>
