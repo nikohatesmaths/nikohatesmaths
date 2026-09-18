@@ -6,6 +6,6 @@
 <h6 align="center">my interests:</a>
 
   
-<h8 align="center">signalis, homestuck, fear & hunger, portal, postal, touhou, disco elysium, ENA, half-life, tf2, psychopomp, nitw, one shot, zeno remake</a>
+<h8 align="center">signalis, homestuck, fear & hunger, portal, postal, mgs, disco elysium, nitw, half-life, tf2, psychopomp </a>
 
 <h10 align="center">and much more !</a>
