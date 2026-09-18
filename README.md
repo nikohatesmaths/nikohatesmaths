@@ -2,7 +2,7 @@
   <img src="https://github.com/nikohatesmaths/nikohatesmaths/blob/main/touhou-marisa-kirisame.gif" />
 </p>
 <h4 align="center">Hello , I'm may </a> 
-<h5 align="center">w2i !!</a>
+<h5 align="center">w2i , c+h !!</a>
 <h6 align="center">my interests:</a>
 
   
