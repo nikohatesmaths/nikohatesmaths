@@ -3,9 +3,8 @@
 </p>
 <h4 align="center">Hello , I'm may </a> 
 <h5 align="center">w2i , c+h , often offtab </a>
-<h6 align="center">feel free to chat </h6>
+<h6 align="center">feel free to chat </a>
 <h7 align="center">my interests:</a>
-</p>
   
 <h8 align="center">signalis, homestuck, fear & hunger, okegom, postal, mgs, disco elysium, nitw, half-life, tf2, psychopomp </h8>
 <h9 align="center">and much more !</h9>
