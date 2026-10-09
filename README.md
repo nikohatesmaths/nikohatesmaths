@@ -3,7 +3,7 @@
 </p>
 <h4 align="center">Hello , I'm may </a> 
 <h5 align="center">16 y.o </a>
-<h5 align="center">w2i , c+h , often offtab </a>
+<div align="center">w2i , c+h , often offtab </a>
 <div align="center">feel free to chat </div>
 <h7 align="center"> my interests: </h7>
   
