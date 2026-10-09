@@ -5,7 +5,7 @@
 <h5 align="center">16 y.o </a>
 <div align="center">w2i , c+h , often offtab </a>
 <h7 align="center">feel free to chat </a>
-<div align="center"> my interests: </div>
+<div align="center"> my interests: </a>
   
 <h8 align="center">signalis, homestuck, fear & hunger, okegom, postal, mgs, disco elysium, nitw, half-life, tf2, psychopomp </h8>
 <h9 align="center">and much more !</h9>
