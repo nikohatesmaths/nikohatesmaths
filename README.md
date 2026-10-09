@@ -6,4 +6,5 @@
 <h6 align="center">feel free to chat </h6>
 <h7 align="center">my interests:</a>
 <h8 align="center">signalis, homestuck, fear & hunger, okegom, postal, mgs, disco elysium, nitw, half-life, tf2, psychopomp </h8>
-<h10 align="center">and much more !</a>
+<h9 align="center">and much more !</h9>
+
